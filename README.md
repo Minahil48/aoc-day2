@@ -15,7 +15,7 @@ Check if the sequence is fully increasing or decreasing
 Validate that each adjacent difference is between 1 and 3
 
 <img width="416" height="59" alt="image" src="https://github.com/user-attachments/assets/7624d486-3d3e-4ea5-b116-47929e9e19a6" />
-
+<br>
 Part 2
 
 Try removing each element one by one
@@ -25,7 +25,7 @@ If any resulting sequence is safe → count it as safe
 <img width="408" height="66" alt="image" src="https://github.com/user-attachments/assets/61304c59-eceb-47c8-bafd-c52e878ac7ef" />
 
 <img width="1065" height="70" alt="image" src="https://github.com/user-attachments/assets/860b3022-c2f4-40ac-82c2-1a2daf19fc3c" />
-
+<br>
 Tech Stack
 
 JavaScript (Node.js)
